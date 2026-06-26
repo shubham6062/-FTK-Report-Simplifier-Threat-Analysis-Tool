@@ -41,7 +41,7 @@ A production-ready Python + Streamlit application that ingests AccessData FTK fo
 ### 1. Clone / Download
 
 ```bash
-git clone https://github.com/yourname/ftk-report-simplifier.git
+git clone https://github.com/shubham6062/-FTK-Report-Simplifier-Threat-Analysis-Tool.git
 cd FTK_Report_Simplifier
 ```
 
